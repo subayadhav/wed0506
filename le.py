@@ -1,2 +1,2 @@
 n=str(input())
-prrint(len(n))
+print(len(n))
